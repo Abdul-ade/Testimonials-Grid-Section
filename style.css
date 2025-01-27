@@ -19,6 +19,7 @@ blockquote {
   display: grid;
   grid-template: repeat(2, 1fr) / repeat(4, 1fr);
   row-gap: 1.4rem;
+  max-width: 96rem;
   column-gap: 2rem;
 }
 .item {
